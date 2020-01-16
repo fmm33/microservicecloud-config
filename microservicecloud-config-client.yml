@@ -24,4 +24,4 @@ eureka:
   client: 
     servlet-url: 
       defaultZone: http://eureka-test.com:7001/eureka/
-# 请保存为UTF-8格式
+# 请保存为UTF-8的格式
